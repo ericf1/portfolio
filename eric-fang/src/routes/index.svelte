@@ -1,1 +1,7 @@
-<h1 class="text-3x1 font-bold">HELLO WORLD</h1>
+<script lang="ts">
+  import Header from "../components/header.svelte";
+</script>
+
+<main>
+  <Header />
+</main>
